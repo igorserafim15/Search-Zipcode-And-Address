@@ -6,8 +6,8 @@ Este aplicativo BuscadorCEP! permite que você encontre códigos de endereçamen
 
 Após baixar na sua máquina ou clonar o projeto, instale as dependências usando:
 
-### `npm instal`
+### `npm install`
 
 ## Veja o projeto no seu navagador
 
-### `npm instal`
+### `npm start`
