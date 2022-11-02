@@ -1,0 +1,29 @@
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  margin: 0% 20px;
+  max-width: 600px;
+  background-color: white;
+  padding: 44px 36px;
+  border-radius: 5px;
+}
+
+.scroll {
+  margin-top: 24px;
+  padding: 16px;
+  max-height: 60vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-shadow: inset 4px 4px 16px #0001;
+  border-radius: 5px;
+}
+
+.card {
+  padding: 16px;
+  overflow: initial !important;
+}
